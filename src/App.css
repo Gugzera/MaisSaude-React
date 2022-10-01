@@ -1,12 +1,18 @@
 .App {
   text-align: center;
+  width: 98%;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
-
+.titulo_remedios{
+  color: green;
+  margin: auto;
+  margin-top: 10px;
+    
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
